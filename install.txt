@@ -1,0 +1,2 @@
+How to install VirusCREATOR??
+Double-click on install.bat
